@@ -93,7 +93,7 @@ function App() {
             <p className="text-lg text-fuchsia-200 leading-relaxed">
               I’m a fourth-year Computer Science and Multimedia Technology student at the University of Costa Rica, with a strong passion for crafting modern, user-focused web applications. I enjoy combining creativity and technical problem-solving to build intuitive digital experiences that are both functional and visually appealing. Throughout my studies, I have worked with technologies such as JavaScript, TypeScript, React, and database systems, continuously expanding my knowledge through personal academic projects. I am always eager to learn new tools, improve my development skills, and take on challenges that help me grow as a web developer.
             </p>
-            <a href="public/Docs/CV-Tamara-Bonilla.pdf" target="_blank"
+            <a href="/Docs/CV-Tamara-Bonilla.pdf" target="_blank"
   rel="noopener noreferrer" className="mt-6 px-6 py-3 border border-fuchsia-400 text-fuchsia-200 overflow-visible text-lg  hover:bg-fuchsia-400/20 transition-colors">
               Download Resume
             </a>
