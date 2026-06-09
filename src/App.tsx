@@ -93,7 +93,7 @@ function App() {
             <p className="text-lg text-fuchsia-200 leading-relaxed">
               I’m a fourth-year Computer Science and Multimedia Technology student at the University of Costa Rica, with a strong passion for crafting modern, user-focused web applications. I enjoy combining creativity and technical problem-solving to build intuitive digital experiences that are both functional and visually appealing. Throughout my studies, I have worked with technologies such as JavaScript, TypeScript, React, and database systems, continuously expanding my knowledge through personal academic projects. I am always eager to learn new tools, improve my development skills, and take on challenges that help me grow as a web developer.
             </p>
-            <a href="docs/CV-Tamara Bonilla.pdf" className="mt-6 px-6 py-3 border border-fuchsia-400 text-fuchsia-200 overflow-visible text-lg  hover:bg-fuchsia-400/20 transition-colors">
+            <a href="public/docs/CV-Tamara-Bonilla.pdf" className="mt-6 px-6 py-3 border border-fuchsia-400 text-fuchsia-200 overflow-visible text-lg  hover:bg-fuchsia-400/20 transition-colors">
               Download Resume
             </a>
           </div>
@@ -164,7 +164,7 @@ function App() {
               <h1 className="text-2xl font-bold mb-4">FemSafe</h1>
               <p>FemSafe is a mobile-focused web application that allows women to mark safe and unsafe locations on a Google Maps interface and access information about available support resources. <br />
 
-Note: This project was not deployed online, but the source code is available on GitHub. For the best experience, use mobile view. <br /> Credentials: bonillaatami@gmail.com Password:femSafe2025</p>
+ Code is available on GitHub. For the best experience, use mobile view. <br /> Credentials: bonillaatami@gmail.com Password:femSafe2025</p>
             </div>
             <div className="flex gap-4 mt-auto">
               <a href="https://github.com/tamib0ke/FemSafe.git" target="_blank" rel="noopener noreferrer" className="block text-fuchsia-100 hover:underline border border-fuchsia-900/50 p-2 rounded-lg">View on GitHub</a>
@@ -175,9 +175,7 @@ Note: This project was not deployed online, but the source code is available on 
             <img src="/img/project3.png" alt="Project 3" className="mb-4 w-full h-56 object-cover rounded-md" />
             <div>
               <h1 className="text-2xl font-bold mb-4">Min's Way</h1>
-              <p>Mi's Way is a Java maze game developed in NetBeans. Players must navigate through a maze filled with traps and shortcuts to reach the goal. This was my first programming project and represents the beginning of my journey as a developer. <br />
-
-Note: The game is not deployed online, but the source code is available on GitHub.</p>
+              <p>Mi's Way is a Java maze game developed in NetBeans. Players must navigate through a maze filled with traps and shortcuts to reach the goal. This was my first programming project and represents the beginning of my journey as a developer. <br /></p>
             </div>
             <div className="flex gap-4 mt-auto">
               <a href="https://github.com/tamib0ke/Min-sWay.git" target="_blank" rel="noopener noreferrer" className="block text-fuchsia-100 hover:underline border border-fuchsia-900/50 p-2 rounded-lg">View on GitHub</a>
